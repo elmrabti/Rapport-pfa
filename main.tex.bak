@@ -96,7 +96,7 @@ pdfstartview={FitH}}					% ajuste la page à la largueur de l'écran
 %\newpage  ==> pour créer une nouvelle page
 
 \thispagestyle{empty}
-\input{./Dedicaces.tex}
+\input{./De.tex}
 
 \thispagestyle{empty}
 \input{./Remerciements.tex}
