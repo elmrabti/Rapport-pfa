@@ -63,7 +63,7 @@
 %Pour les galerie d'images
 \usepackage{subfig}
 
-%====================== INFORMATION ET REGLES ======================
+%============= INFORMATION ET REGLES =============
 
 %rajouter les numérotation pour les \paragraphe et \subparagraphe
 \setcounter{secnumdepth}{4}
@@ -88,16 +88,15 @@ pdfstartview={FitH}}					% ajuste la page à la largueur de l'écran
 %page de garde
 \input{./title.tex}
 
-%page blanche
+%page blanche 
 \newpage
 ~
 %ne pas numéroter cette page
 \thispagestyle{empty}
 %\newpage  ==> pour créer une nouvelle page
 
-\thispagestyle{empty}
+%\thispagestyle{empty}
 \input{./Dedicaces.tex}
-
 \thispagestyle{empty}
 \input{./Remerciements.tex}
 \thispagestyle{empty}
@@ -106,9 +105,9 @@ pdfstartview={FitH}}					% ajuste la page à la largueur de l'écran
 \input{./abstract.tex}
 
 \thispagestyle{empty}
-\tableofcontents
-\thispagestyle{empty}
 \listoffigures
+\thispagestyle{empty}
+\tableofcontents
 \thispagestyle{empty}
 
 \setcounter{page}{0}
@@ -128,7 +127,17 @@ pdfstartview={FitH}}					% ajuste la page à la largueur de l'écran
 %recommencer la numérotation des pages à "1"
 \newpage
 
-\input{./presentation.tex}
+\input{./Chapitre1.tex}
+
+\input{./Chapitre2.tex}
+
+\input{./Chapitre3.tex}
+
+\input{./Conclusion.tex}
+
+\input{./Bibliographie.tex}
+
+
 
 %\input{./existant.tex}
 
