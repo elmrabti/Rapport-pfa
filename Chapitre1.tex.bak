@@ -17,6 +17,7 @@ Il s’agit de la conception d’un système qui gère les données des patients
 
 \subsection{Acteurs du système}
 
+\begin{longtblr}
 \begin{longtable}{ |l|l|l| }
 \hline
 \multicolumn{2}{ |c| }{Acteurs du système} \\
@@ -74,6 +75,7 @@ Utilisateur  & Attributs \\ \hline
  
 
 \end{longtable}
+\end{longtblr}
 
 
 
