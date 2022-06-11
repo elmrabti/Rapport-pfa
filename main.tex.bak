@@ -65,7 +65,7 @@
 
 \usepackage{longtable}
 \usepackage{svg}
-\svgpath{{../imgs/}}
+\svgpath{{../svg/}}
 
 %============= INFORMATION ET REGLES =============
 

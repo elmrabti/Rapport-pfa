@@ -21,14 +21,7 @@
 \caption{Dossier medical du patient}
 \end{figure}
 
-\subsection{Diagrame de classe}
-
-\begin{figure}[!h]
-\begin{center}
-\includegraphics[height=10cm,width=18cm]{classdiag.png}
-\end{center}
-\caption{Dossier medical du patient}
-\end{figure}
+\
 
 \section{Dictionnaire de données}
 
