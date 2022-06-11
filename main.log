@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.5)  8 JUN 2022 10:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.5)  11 JUN 2022 04:04
 entering extended mode
 **./main.tex
 (main.tex
@@ -963,7 +963,7 @@ Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 Package caption Info: End \AtBeginDocument code.
 
 (title.tex
-<./ensiass.png, id=106, 936.49875pt x 239.89626pt>
+<./ensiass.png, id=150, 936.49875pt x 239.89626pt>
 File: ./ensiass.png Graphic file (type png)
 <use ./ensiass.png>
 Package pdftex.def Info: ./ensiass.png  used on input line 5.
@@ -1001,15 +1001,15 @@ l.1 \chapter
 
  [3
 
-] (main.toc)
+] (main.toc [4
+
+])
 \tf@toc=\write6
 \openout6 = `main.toc'.
 
- (Introduction.tex
-[0
 
-])pdfTeX warning (ext4): destination with the same identifier (name{page.1}) ha
-s been already used, duplicate ignored
+(Introduction.tex [0])pdfTeX warning (ext4): destination with the same identifi
+er (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.130 \newpage
@@ -1021,55 +1021,74 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76 \end{longtable}
+l.91 \end{longtable}
                      [2
 
 ]pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
  been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.76 \end{longtable}
-                     [3]) (Chapitre2.tex [4]
+l.91 \end{longtable}
+                     [3]
+Overfull \vbox (27.0pt too high) detected at line 102
+ []
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.132 P
+       eut consulter son profile et modifier ses données personnelles [4])
+(Chapitre2.tex [5]
 Chapitre 2.
-) (Chapitre3.tex [5
+) (Chapitre3.tex [6
 
 ]
 Chapitre 3.
-) (Conclusion.tex [6
+<log.png, id=260, 439.6425pt x 380.17032pt>
+File: log.png Graphic file (type png)
+<use log.png>
+Package pdftex.def Info: log.png  used on input line 13.
+(pdftex.def)             Requested size: 329.0468pt x 284.52756pt.
+) (Conclusion.tex [7
 
-]) [7
+ <./log.png>] [8]) [9
 
 ]
 No file main.bbl.
 (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 7756232A59470F1B88EA962C2D35FC25;3537.
+(rerunfilecheck)             Checksum: 933C849392225883868DE75CC81B4271;5123.
  ) 
 Here is how much of TeX's memory you used:
- 26833 strings out of 478643
- 493489 string characters out of 2844834
- 787014 words of memory out of 3000000
- 44439 multiletter control sequences out of 15000+600000
+ 26871 strings out of 478643
+ 494174 string characters out of 2844834
+ 787022 words of memory out of 3000000
+ 44462 multiletter control sequences out of 15000+600000
  414310 words of font info for 43 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,5n,133p,617b,530s stack positions out of 5000i,500n,10000p,200000b,80000s
-{C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-sup
-er-t1.enc}<C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
-onts/cm/cmsy10.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/pu
-blic/cm-super/sfbx1000.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/
-type1/public/cm-super/sfbx1200.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTe
-X/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/elmra/AppData/Local/Progra
-ms/MiKTeX/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/elmra/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Users/elmra/AppD
-ata/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1200.pfb><C:/Users/el
-mra/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1440.pfb><C:/
-Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1000.
-pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/s
-frm1200.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm
--super/sfti1200.pfb>
-Output written on main.pdf (14 pages, 280225 bytes).
+ 99i,14n,133p,619b,583s stack positions out of 5000i,500n,10000p,200000b,80000s
+pdfTeX warning (dest): name{figure.caption.7} has been referenced but does no
+t exist, replaced by a fixed one
+
+{C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-super
+-t1.enc}<C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfon
+ts/cm/cmsy10.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/cm-super/sfbx1000.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/ty
+pe1/public/cm-super/sfbx1200.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/elmra/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/elmra/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Users/elmra/AppDat
+a/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1000.pfb><C:/Users/elmr
+a/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1200.pfb><C:/Us
+ers/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1440.pf
+b><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfr
+m1000.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-s
+uper/sfrm1200.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/pub
+lic/cm-super/sfti1200.pfb>
+Output written on main.pdf (17 pages, 313051 bytes).
 PDF statistics:
- 264 PDF objects out of 1000 (max. 8388607)
- 41 named destinations out of 1000 (max. 500000)
- 218 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 343 PDF objects out of 1000 (max. 8388607)
+ 56 named destinations out of 1000 (max. 500000)
+ 311 words of extra memory for PDF output out of 10000 (max. 10000000)
 
