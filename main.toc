@@ -1,0 +1,44 @@
+\babel@toc {french}{}\relax 
+\contentsline {chapter}{\numberline {1}Pr\IeC {\'e}sentation du projet}{2}{chapter.1}%
+\contentsline {section}{\numberline {1.1}Introduction}{2}{section.1.1}%
+\contentsline {section}{\numberline {1.2}D\IeC {\'e}finition de sujet}{2}{section.1.2}%
+\contentsline {section}{\numberline {1.3}Cahier de charge}{2}{section.1.3}%
+\contentsline {subsection}{\numberline {1.3.1}Introduction}{2}{subsection.1.3.1}%
+\contentsline {subsection}{\numberline {1.3.2}Acteurs du syst\IeC {\`e}me}{2}{subsection.1.3.2}%
+\contentsline {subsection}{\numberline {1.3.3}Donn\IeC {\'e}es manipul\IeC {\'e}es dans le syst\IeC {\`e}me}{4}{subsection.1.3.3}%
+\contentsline {subsection}{\numberline {1.3.4}Droits d\IeC {\textquoteright }acc\IeC {\`e}s}{4}{subsection.1.3.4}%
+\contentsline {subsubsection}{\numberline {1.3.4.1}Administrateur :}{4}{subsubsection.1.3.4.1}%
+\contentsline {subsubsection}{\numberline {1.3.4.2} M\IeC {\'e}decin :}{4}{subsubsection.1.3.4.2}%
+\contentsline {subsubsection}{\numberline {1.3.4.3}Radiologue :}{5}{subsubsection.1.3.4.3}%
+\contentsline {subsubsection}{\numberline {1.3.4.4}Patients :}{5}{subsubsection.1.3.4.4}%
+\contentsline {subsection}{\numberline {1.3.5}Fonctionnalit\IeC {\'e}s}{5}{subsection.1.3.5}%
+\contentsline {subsubsection}{\numberline {1.3.5.1}M\IeC {\'e}decin :}{5}{subsubsection.1.3.5.1}%
+\contentsline {subsubsection}{\numberline {1.3.5.2}Radiologue :}{5}{subsubsection.1.3.5.2}%
+\contentsline {subsubsection}{\numberline {1.3.5.3}Administrateur :}{5}{subsubsection.1.3.5.3}%
+\contentsline {subsubsection}{\numberline {1.3.5.4}Patient :}{5}{subsubsection.1.3.5.4}%
+\contentsline {section}{\numberline {1.4}Probl\IeC {\'e}matique}{5}{section.1.4}%
+\contentsline {section}{\numberline {1.5}Objectifs}{5}{section.1.5}%
+\contentsline {section}{\numberline {1.6}Conclusion}{5}{section.1.6}%
+\contentsline {chapter}{\numberline {2}Analyse et conception}{6}{chapter.2}%
+\contentsline {section}{\numberline {2.1}Introduction}{6}{section.2.1}%
+\contentsline {section}{\numberline {2.2}Analyse th\IeC {\'e}orique}{6}{section.2.2}%
+\contentsline {section}{\numberline {2.3}Acteurs du syst\IeC {\`e}me}{6}{section.2.3}%
+\contentsline {section}{\numberline {2.4}R\IeC {\'e}gles de gestion}{6}{section.2.4}%
+\contentsline {section}{\numberline {2.5}Conception}{6}{section.2.5}%
+\contentsline {subsection}{\numberline {2.5.1}Diagramme de cas d'utilisation }{6}{subsection.2.5.1}%
+\contentsline {subsection}{\numberline {2.5.2}Diagramme de classe}{7}{subsection.2.5.2}%
+\contentsline {section}{\numberline {2.6}Dictionnaire de donn\IeC {\'e}es}{7}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Conclusion}{7}{section.2.7}%
+\contentsline {chapter}{\numberline {3}R\IeC {\'e}alisation et r\IeC {\'e}sultats}{8}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Introduction}{8}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Choix des technologies}{8}{section.3.2}%
+\contentsline {subsection}{\numberline {3.2.1}Next js}{8}{subsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.2.2}Postgresql}{9}{subsection.3.2.2}%
+\contentsline {subsection}{\numberline {3.2.3}Cassandra}{9}{subsection.3.2.3}%
+\contentsline {subsection}{\numberline {3.2.4}Latex}{9}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Vscode}{9}{subsection.3.2.5}%
+\contentsline {section}{\numberline {3.3}Interfaces graphiques}{9}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Page de login}{9}{subsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.3.2}Profile du patient}{9}{subsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.3.3}Dossier medical du patient}{9}{subsection.3.3.3}%
+\contentsline {section}{\numberline {3.4}Conclusion}{9}{section.3.4}%
