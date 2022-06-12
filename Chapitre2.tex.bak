@@ -1,0 +1,37 @@
+\chapter{Analyse et conception}
+
+
+
+\section{Introduction}
+
+\section{Analyse théorique}
+
+\section{Acteurs du système}
+
+\section{Régles de gestion}
+
+\section{Conception}
+
+\subsection{Diagrame de use case}
+
+\begin{figure}[!h]
+\begin{center}
+\includegraphics[height=8cm,width=18cm]{usecasediag.png}
+\end{center}
+\caption{Diagrame de use case}
+\end{figure}
+
+\subsection{Diagrame de classe}
+
+\begin{figure}[!h]
+\begin{center}
+\includegraphics[height=10cm,width=18cm]{classdiag.png}
+\end{center}
+\caption{Diagrame de classe}
+\end{figure}
+
+\section{Dictionnaire de données}
+
+\section{Choix des technologies}
+
+\section{Conclusion}
