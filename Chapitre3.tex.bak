@@ -152,6 +152,7 @@ Page de login pour s'authentifier comme utilisateur du système
 
 le profile du patient contient ses informations personnelles.
 
+\newpage
 
 
 \begin{figure}[!h]
@@ -174,7 +175,37 @@ Le dossier médical du patient contient les dernières actions faites par le pat
 \caption{Dossier medical du patient}
 \end{figure}
 
+\subsection{Page d'inscription}
 
+\begin{figure}[!h]
+\begin{center}
+\includegraphics[height=8cm,width=18cm]{reg.png}
+\end{center}
+\caption{Page d'inscription}
+\end{figure}
+
+\newpage
+
+\subsection{Page de recherche}
+
+\begin{figure}[!h]
+\begin{center}
+\includegraphics[height=8cm,width=18cm]{search.jpeg}
+\end{center}
+\caption{Page de recherche}
+\end{figure}
+
+
+\subsection{Interface d'ajout des patients pour l'admin}
+
+\newpage
+
+\begin{figure}[!h]
+\begin{center}
+\includegraphics[height=6cm,width=18cm]{backadmin.jpeg}
+\end{center}
+\caption{ajout des patients pour l'admin}
+\end{figure}
 
 
 
