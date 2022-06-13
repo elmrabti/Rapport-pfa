@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.5)  13 JUN 2022 01:11
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.12.5)  13 JUN 2022 05:26
 entering extended mode
 **./main.tex
 (main.tex
@@ -1001,7 +1001,7 @@ Package: ltcaption 2020/05/30 v1.4b longtable captions (AR)
 Package caption Info: End \AtBeginDocument code.
 
 (title.tex
-<./ensiass.png, id=182, 936.49875pt x 239.89626pt>
+<./ensiass.png, id=166, 936.49875pt x 239.89626pt>
 File: ./ensiass.png Graphic file (type png)
 <use ./ensiass.png>
 Package pdftex.def Info: ./ensiass.png  used on input line 5.
@@ -1050,7 +1050,7 @@ l.1 \chapter
 er (name{page.1}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.137 \newpage
+l.135 \newpage
                [1
 
 ] (Chapitre1.tex
@@ -1059,160 +1059,181 @@ pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.88 \end{longtable}
-                     [2
+l.41  \begin{itemize}
+                      [2
 
-]pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has
- been already used, duplicate ignored
+]) (Chapitre2.texpdfTeX warning (ext4): destination with the same identifier (n
+ame{page.3}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.88 \end{longtable}
-                     [3]
-Overfull \vbox (18.0pt too high) detected at line 100
- []
-
+l.1 \chapter
+            {Analyse et conception} [3]
+Chapitre 2.
 pdfTeX warning (ext4): destination with the same identifier (name{page.4}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.130 \subsubsection
-                    {Radiologue :} [4]) (Chapitre2.texpdfTeX warning (ext4): de
-stination with the same identifier (name{page.5}) has been already used, duplic
-ate ignored
+l.70 \end{longtable}
+                     [4
+
+]
+Overfull \vbox (18.0pt too high) detected at line 82
+ []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.5}) has 
+been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1 \chapter
-            {Analyse et conception} [5]
-Chapitre 2.
-<usecasediag.png, id=334, 713.66624pt x 505.89pt>
+l.106 \subsubsection
+                    { Médecin :} [5]pdfTeX warning (ext4): destination with th
+e same identifier (name{page.6}) has been already used, duplicate ignored
+<to be read again> 
+                   \relax 
+l.135 
+       [6]
+<usecasediag.png, id=317, 713.66624pt x 505.89pt>
 File: usecasediag.png Graphic file (type png)
 <use usecasediag.png>
-Package pdftex.def Info: usecasediag.png  used on input line 23.
+Package pdftex.def Info: usecasediag.png  used on input line 153.
 (pdftex.def)             Requested size: 512.17317pt x 227.62523pt.
 
-Overfull \hbox (28.4763pt too wide) in paragraph at lines 23--24
+Overfull \hbox (28.4763pt too wide) in paragraph at lines 153--154
  [] 
  []
 
-<classdiag.png, id=335, 1020.9342pt x 734.0223pt>
+<classdiag.png, id=318, 1020.9342pt x 734.0223pt>
 File: classdiag.png Graphic file (type png)
 <use classdiag.png>
-Package pdftex.def Info: classdiag.png  used on input line 32.
+Package pdftex.def Info: classdiag.png  used on input line 162.
 (pdftex.def)             Requested size: 512.16388pt x 284.5315pt.
 
-Overfull \hbox (28.46701pt too wide) in paragraph at lines 32--33
+Overfull \hbox (28.46701pt too wide) in paragraph at lines 162--163
  [] 
  []
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.6}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.35 \end{figure}
-                  [6
 
- <./usecasediag.png>]) (Chapitre3.texpdfTeX warning (ext4): destination with th
-e same identifier (name{page.7}) has been already used, duplicate ignored
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+) (Chapitre3.texpdfTeX warning (ext4): destination with the same identifier (na
+me{page.7}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1 \chapter
-            {Réalisation et résultats} [7 <./classdiag.png>]
-Chapitre 3.
-<UML.svg.png, id=342, 1284.8pt x 934.49126pt>
-File: UML.svg.png Graphic file (type png)
-<use UML.svg.png>
-Package pdftex.def Info: UML.svg.png  used on input line 14.
-(pdftex.def)             Requested size: 312.94574pt x 227.62204pt.
-pdfTeX warning (ext4): destination with the same identifier (name{page.8}) has 
-been already used, duplicate ignored
+            {Réalisation et résultats} [7 <./usecasediag.png>]pdfTeX warning 
+(ext4): destination with the same identifier (name{page.8}) has been already us
+ed, duplicate ignored
 <to be read again> 
                    \relax 
-l.25 
-      [8
+l.1 \chapter
+            {Réalisation et résultats} [8 <./classdiag.png>]
+Chapitre 3.
+<UML.svg.png, id=325, 1284.8pt x 934.49126pt>
+File: UML.svg.png Graphic file (type png)
+<use UML.svg.png>
+Package pdftex.def Info: UML.svg.png  used on input line 16.
+(pdftex.def)             Requested size: 312.94574pt x 227.62204pt.
+[9
 
  <./UML.svg.png>]
-<Nextjs.svg.png, id=347, 1284.8pt x 769.87625pt>
+<Nextjs.svg.png, id=332, 1284.8pt x 769.87625pt>
 File: Nextjs.svg.png Graphic file (type png)
 <use Nextjs.svg.png>
-Package pdftex.def Info: Nextjs.svg.png  used on input line 28.
+Package pdftex.def Info: Nextjs.svg.png  used on input line 30.
 (pdftex.def)             Requested size: 379.85571pt x 227.62204pt.
-<Postgresql.svg.png, id=348, 803.0pt x 828.09375pt>
+<Postgresql.svg.png, id=333, 803.0pt x 828.09375pt>
 File: Postgresql.svg.png Graphic file (type png)
 <use Postgresql.svg.png>
-Package pdftex.def Info: Postgresql.svg.png  used on input line 39.
+Package pdftex.def Info: Postgresql.svg.png  used on input line 41.
 (pdftex.def)             Requested size: 220.72153pt x 227.62204pt.
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 (C:\Users\elmra\AppData\Local\Programs\MiKTeX\tex/latex/ucs\uni-1.def
 File: uni-1.def 2013/05/13 UCS: Unicode data U+0100..U+01FF
-) [9 <./Nextjs.svg.png> <./Postgresql.svg.png>]
-<Cassandra.svg.png, id=356, 331.2375pt x 221.82875pt>
+)
+<Cassandra.svg.png, id=334, 331.2375pt x 221.82875pt>
 File: Cassandra.svg.png Graphic file (type png)
 <use Cassandra.svg.png>
-Package pdftex.def Info: Cassandra.svg.png  used on input line 52.
+Package pdftex.def Info: Cassandra.svg.png  used on input line 54.
 (pdftex.def)             Requested size: 254.91212pt x 170.71652pt.
-<LaTeX.svg.png, id=357, 1927.2pt x 803.0pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+[10 <./Nextjs.svg.png>]
+<LaTeX.svg.png, id=340, 1927.2pt x 803.0pt>
 File: LaTeX.svg.png Graphic file (type png)
 <use LaTeX.svg.png>
-Package pdftex.def Info: LaTeX.svg.png  used on input line 65.
+Package pdftex.def Info: LaTeX.svg.png  used on input line 67.
 (pdftex.def)             Requested size: 409.72308pt x 170.71652pt.
- [10 <./Cassandra.svg.png> <./LaTeX.svg.png>]
-<vscode.svg.png, id=364, 803.0pt x 803.0pt>
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<vscode.svg.png, id=341, 803.0pt x 803.0pt>
 File: vscode.svg.png Graphic file (type png)
 <use vscode.svg.png>
-Package pdftex.def Info: vscode.svg.png  used on input line 78.
+Package pdftex.def Info: vscode.svg.png  used on input line 80.
 (pdftex.def)             Requested size: 170.71794pt x 170.71652pt.
-<log.png, id=365, 439.6425pt x 380.17032pt>
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
+<log.png, id=342, 439.6425pt x 380.17032pt>
 File: log.png Graphic file (type png)
 <use log.png>
-Package pdftex.def Info: log.png  used on input line 92.
+Package pdftex.def Info: log.png  used on input line 94.
 (pdftex.def)             Requested size: 329.0468pt x 284.52756pt.
-
+[11 <./Postgresql.svg.png> <./Cassandra.svg.png>]
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<gen.png, id=366, 1445.4pt x 669.2503pt>
+<gen.png, id=349, 1445.4pt x 669.2503pt>
 File: gen.png Graphic file (type png)
 <use gen.png>
-Package pdftex.def Info: gen.png  used on input line 105.
+Package pdftex.def Info: gen.png  used on input line 107.
 (pdftex.def)             Requested size: 512.13914pt x 284.53484pt.
 
-Overfull \hbox (28.44228pt too wide) in paragraph at lines 105--106
+Overfull \hbox (28.44228pt too wide) in paragraph at lines 107--108
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<med.png, id=367, 1432.60219pt x 684.30656pt>
+<med.png, id=350, 1432.60219pt x 684.30656pt>
 File: med.png Graphic file (type png)
 <use med.png>
-Package pdftex.def Info: med.png  used on input line 117.
+Package pdftex.def Info: med.png  used on input line 119.
 (pdftex.def)             Requested size: 512.15141pt x 227.61783pt.
 
-Overfull \hbox (28.45454pt too wide) in paragraph at lines 117--118
+Overfull \hbox (28.45454pt too wide) in paragraph at lines 119--120
  [] 
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-) (Conclusion.tex [11 <./vscode.svg.png>] [12 <./log.png> <./gen.png>] [13 <./m
-ed.png>]) [14
+) (Conclusion.tex [12 <./LaTeX.svg.png> <./vscode.svg.png>] [13 <./log.png> <./
+gen.png>] [14 <./med.png>]) [15
 
 ]
 No file main.bbl.
 (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: E7F106F46C63A992621E75A4AFC62D58;6156.
+(rerunfilecheck)             Checksum: D5BFC734E03FDB8BC290EDF2DB43CA47;5535.
  ) 
 Here is how much of TeX's memory you used:
- 28493 strings out of 478643
- 522734 string characters out of 2844834
- 840033 words of memory out of 3000000
- 46012 multiletter control sequences out of 15000+600000
+ 28487 strings out of 478643
+ 522662 string characters out of 2844834
+ 838036 words of memory out of 3000000
+ 46009 multiletter control sequences out of 15000+600000
  415764 words of font info for 45 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 99i,16n,133p,629b,612s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 99i,16n,133p,629b,585s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-sup
 er-t1.enc}<C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsf
 onts/cm/cmsy10.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/pu
@@ -1230,9 +1251,9 @@ frm0700.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm
 ublic/cm-super/sfrm1200.pfb><C:/Users/elmra/AppData/Local/Programs/MiKTeX/fonts
 /type1/public/cm-super/sfti1000.pfb><C:/Users/elmra/AppData/Local/Programs/MiKT
 eX/fonts/type1/public/cm-super/sfti1200.pfb>
-Output written on main.pdf (24 pages, 834626 bytes).
+Output written on main.pdf (25 pages, 834474 bytes).
 PDF statistics:
- 468 PDF objects out of 1000 (max. 8388607)
- 82 named destinations out of 1000 (max. 500000)
- 425 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 453 PDF objects out of 1000 (max. 8388607)
+ 79 named destinations out of 1000 (max. 500000)
+ 393 words of extra memory for PDF output out of 10000 (max. 10000000)
 
