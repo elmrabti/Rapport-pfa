@@ -4,7 +4,24 @@
 
 \section{Introduction}
 
-Ce chapitre abordera une analyse du sujet pour présenter une approche originale et une modélisation de l’application
+Ce chapitre abordera une analyse du sujet pour présenter une approche originale et une modélisation adéquate pour l’application
+
+La majorité des applications de gestion qui concernent les services médicaux
+se contentent d’informations basiques et plutôt bornées relativement et dépendemment de
+l’organisation ou cabinet, par conséquence les données du patient sont distribuées sur
+différentes organisations. Ce qui rend déficile la tâche de traçabilité et de suivi médical du patient à travers ses traitements éffectués.
+
+\subsection{Analyse du sujet}
+
+Il s’agit de la conception d’un système qui gère les données des patients dans un système de santé multi-centres, il consiste à mémoriser pour chaque patient, non seulement les informations administratives (nom, âge, sexe ...), mais également des informations concernant l’historique médical du patient, ce qui aide les médecins consultés à prendre des décisions en se basant sur des données exactes et pertinentes, en offrant des interfaces personnalisées selon le profil du demandeur de l’information, et accessible à tout moment.\\
+Pour cela on propose les utilisateurs suivants : 
+
+\begin{itemize}
+\item Patient
+\item Médecin
+\item Radiologue
+\item Admin
+\end{itemize}
 
 
 \subsection{Acteurs du système}
@@ -143,10 +160,12 @@ L’administrateur a un contrôle total sur les comptes : il crée en cas de nai
 
 
 
-
 \section{Conception}
 
 \subsection{Diagramme de cas d'utilisation }
+
+\newpage
+
 
 \begin{figure}[!h]
 \begin{center}
@@ -165,4 +184,8 @@ L’administrateur a un contrôle total sur les comptes : il crée en cas de nai
 \end{figure}
 
 
-\section{Conclusion}
+\section{Conclusion} 
+
+Aprés terminer cette étape d'analyse et conception nous avons une vision claire sur la réalisation qui est l'étape suivante qui vient aprés le choix des outils technologique.
+
+
