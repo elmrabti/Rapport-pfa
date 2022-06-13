@@ -28,7 +28,7 @@ Pour cela on propose les utilisateurs suivants :
 \subsection{Acteurs du système}
  
 
-\begin{longtable}{ |l|l|l| }
+\begin{longtable}{ |m{10em} | m{6cm}| m{1cm}| }
 \hline
 \multicolumn{2}{ |c| }{Acteurs du système} \\
 \hline
