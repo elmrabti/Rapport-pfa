@@ -32,15 +32,18 @@
 \contentsline {subsection}{\numberline {3.2.1}UML}{10}{subsection.3.2.1}%
 \contentsline {subsection}{\numberline {3.2.2}Next js}{11}{subsection.3.2.2}%
 \contentsline {subsection}{\numberline {3.2.3}Postgresql}{11}{subsection.3.2.3}%
-\contentsline {subsection}{\numberline {3.2.4}Cassandra}{11}{subsection.3.2.4}%
-\contentsline {subsection}{\numberline {3.2.5}Tailwind CSS}{11}{subsection.3.2.5}%
-\contentsline {subsection}{\numberline {3.2.6}Latex}{13}{subsection.3.2.6}%
+\contentsline {subsection}{\numberline {3.2.4}Cassandra}{12}{subsection.3.2.4}%
+\contentsline {subsection}{\numberline {3.2.5}Tailwind CSS}{12}{subsection.3.2.5}%
+\contentsline {subsection}{\numberline {3.2.6}Latex}{12}{subsection.3.2.6}%
 \contentsline {subsection}{\numberline {3.2.7}Visual Studio Code}{13}{subsection.3.2.7}%
-\contentsline {subsection}{\numberline {3.2.8}Strapi}{14}{subsection.3.2.8}%
+\contentsline {subsection}{\numberline {3.2.8}Strapi}{13}{subsection.3.2.8}%
 \contentsline {subsection}{\numberline {3.2.9}Vercel}{14}{subsection.3.2.9}%
 \contentsline {subsection}{\numberline {3.2.10}Heroku}{14}{subsection.3.2.10}%
 \contentsline {section}{\numberline {3.3}Interfaces graphiques}{15}{section.3.3}%
 \contentsline {subsection}{\numberline {3.3.1}Page de login}{15}{subsection.3.3.1}%
 \contentsline {subsection}{\numberline {3.3.2}Profile du patient}{15}{subsection.3.3.2}%
 \contentsline {subsection}{\numberline {3.3.3}Dossier medical du patient}{16}{subsection.3.3.3}%
-\contentsline {section}{\numberline {3.4}Conclusion}{17}{section.3.4}%
+\contentsline {subsection}{\numberline {3.3.4}Page d'inscription}{16}{subsection.3.3.4}%
+\contentsline {subsection}{\numberline {3.3.5}Page de recherche}{17}{subsection.3.3.5}%
+\contentsline {subsection}{\numberline {3.3.6}Interface d'ajout des patients pour l'admin}{17}{subsection.3.3.6}%
+\contentsline {section}{\numberline {3.4}Conclusion}{18}{section.3.4}%

@@ -6,7 +6,7 @@
 \addvspace {10\p@ }
 \contentsline {figure}{\numberline {3.1}{\ignorespaces UML\relax }}{10}{figure.caption.12}%
 \contentsline {figure}{\numberline {3.2}{\ignorespaces NEXT.JS\relax }}{11}{figure.caption.13}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Postgresql\relax }}{12}{figure.caption.14}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Postgresql\relax }}{11}{figure.caption.14}%
 \contentsline {figure}{\numberline {3.4}{\ignorespaces Cassandra\relax }}{12}{figure.caption.15}%
 \contentsline {figure}{\numberline {3.5}{\ignorespaces Tailwind CSS\relax }}{12}{figure.caption.16}%
 \contentsline {figure}{\numberline {3.6}{\ignorespaces \LaTeX \relax }}{13}{figure.caption.17}%
@@ -17,3 +17,6 @@
 \contentsline {figure}{\numberline {3.11}{\ignorespaces Page de login \relax }}{15}{figure.caption.22}%
 \contentsline {figure}{\numberline {3.12}{\ignorespaces Profile du patient\relax }}{16}{figure.caption.23}%
 \contentsline {figure}{\numberline {3.13}{\ignorespaces Dossier medical du patient\relax }}{16}{figure.caption.24}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Page d'inscription\relax }}{17}{figure.caption.25}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Page de recherche\relax }}{17}{figure.caption.26}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces ajout des patients pour l'admin\relax }}{18}{figure.caption.27}%

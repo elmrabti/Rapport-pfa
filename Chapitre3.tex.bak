@@ -27,7 +27,7 @@ Le framework permet de créer des applications web universelles ou parfois appel
 
 \begin{figure}[!h]
 \begin{center}
-\includegraphics[height=8cm]{Nextjs.svg.png}
+\includegraphics[height=6cm]{Nextjs.svg.png}
 \end{center}
 \caption{NEXT.JS}
 \end{figure}
@@ -63,7 +63,7 @@ Tailwind CSS est un framework utility-fist CSS (feuilles de style en cascade) av
 
 \begin{figure}[!h]
 \begin{center}
-\includegraphics[height=6cm]{tailwindcss.png}
+\includegraphics[height=5cm]{tailwindcss.png}
 \end{center}
 \caption{Tailwind CSS}
 \end{figure}
@@ -92,7 +92,7 @@ Les fonctionnalités incluent la prise en charge du débogage, la mise en évide
 
 \begin{figure}[!h]
 \begin{center}
-\includegraphics[height=6cm]{vscode.svg.png}
+\includegraphics[height=4cm]{vscode.svg.png}
 \end{center}
 \caption{vscode}
 \end{figure}
@@ -129,9 +129,9 @@ Heroku est une plate-forme cloud en tant que service (PaaS) prenant en charge pl
 
 \begin{figure}[!h]
 \begin{center}
-\includegraphics[height=6cm]{heoko.svg.png}
+\includegraphics[height=3cm]{heroku.svg.png}
 \end{center}
-\caption{Heroko}
+\caption{Heroku}
 \end{figure}
 
 
@@ -139,8 +139,7 @@ Heroku est une plate-forme cloud en tant que service (PaaS) prenant en charge pl
 
 \subsection{Page de login}
 
-Page de login 
-
+Page de login pour s'authentifier comme utilisateur du système
 \begin{figure}[!h]
 \begin{center}
 \includegraphics[height=10cm]{log.png}
@@ -153,10 +152,12 @@ Page de login
 
 le profile du patient contient ses informations personnelles.
 
+
+
 \begin{figure}[!h]
 \centering
 \begin{center}
-\includegraphics[height=10cm,width=18cm]{gen.png}
+\includegraphics[height=10cm,width=18cm]{profile.jpeg}
 \end{center}
 \caption{Profile du patient}
 \end{figure}
@@ -179,5 +180,5 @@ Le dossier médical du patient contient les dernières actions faites par le pat
 
 
 \section{Conclusion}
-La terminaison de cette étape marque la fin de notre projet, il reste à voir le résultat réél de ce projet et en tirer des conclusion, et puis voir des amélioration possible en guise de perspective.
+La terminaison de cette étape marque la fin de notre projet, il reste à voir le résultat réél de ce projet et en tirer des conclusions, et puis voir des améliorations possible en guise de perspective.
 
